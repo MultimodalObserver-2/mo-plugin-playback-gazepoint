@@ -1,0 +1,8 @@
+{
+  "view_text": "Visualización de Seguimiento Ocular GazePoint 3 HD",
+  "preview_text": "GazePoint - Datos de Seguimiento Ocular",
+  "property.enable_fixations": "Mostrar Fijaciones",
+  "property.show_gaze_path": "Mostrar Trayectoria de la Mirada",
+  "property.fixation_duration": "Umbral de Duración de Fijación",
+  "property.point_size": "Tamaño del Punto de Mirada"
+}

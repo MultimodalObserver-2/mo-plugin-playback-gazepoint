@@ -1,0 +1,31 @@
+{
+    "id": "gazepoint-playback",
+    "name": "GazePoint Playback",
+    "description": "A plugin that visualizes GazePoint 3 HD eye-tracking data",
+    "version": "1.0.0",
+    "publisher": {
+        "id": "interaction-lab",
+        "name": "InTeractiOn Lab",
+        "url": "https://interaction-lab.info"
+    },
+    "repository": "https://github.com/MultimodalObserver-2/",
+    "author": {
+        "name": "Camila Carabajal",
+        "email": "camila.carabajal@usach.cl"
+    },
+    "icon": {
+        "light": "assets/icons/light.svg",
+        "dark": "assets/icons/dark.svg"
+    },
+    "locales": "assets/locales",
+    "platform": {
+        "linux": true,
+        "windows": true,
+        "mac": true
+    },
+    "entryPoints": {
+        "mo.ui.renderer.plugin": "main.js",
+        "mo.ui.renderer.plugin.properties": "properties.js"
+    },
+    "target": "ui"
+}

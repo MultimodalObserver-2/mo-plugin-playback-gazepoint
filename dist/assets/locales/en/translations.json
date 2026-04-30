@@ -1,0 +1,8 @@
+{
+  "view_text": "GazePoint 3 HD Eye Tracking Visualization",
+  "preview_text": "GazePoint - Eye Tracking Data",
+  "property.enable_fixations": "Show Fixations",
+  "property.show_gaze_path": "Display Gaze Path",
+  "property.fixation_duration": "Fixation Duration Threshold",
+  "property.point_size": "Gaze Point Size"
+}
