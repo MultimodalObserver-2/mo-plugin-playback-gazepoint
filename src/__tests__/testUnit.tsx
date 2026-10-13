@@ -1,6 +1,5 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest'
 import { render, fireEvent, act } from '@testing-library/react'
-import React from 'react'
 
 import GazePointPlayback from '../main'
 import { GazePointPreview } from '../components/GazepointPreview'

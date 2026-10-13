@@ -1,7 +1,7 @@
 import { useTranslation } from "mo-sdk";
 
 export function GazePointPreview() {
-    const { t } = useTranslation("interaction-lab-gazepoint-playback");
+    const { t } = useTranslation("interaction-lab-gazepoint_playback");
 
     return (
         <div

@@ -1,5 +1,5 @@
 {
-    "id": "gazepoint-playback",
+    "id": "gazepoint_playback",
     "name": "GazePoint Playback",
     "description": "A plugin that visualizes GazePoint 3 HD eye-tracking data",
     "version": "1.0.0",

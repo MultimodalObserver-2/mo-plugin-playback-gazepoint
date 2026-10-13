@@ -12,7 +12,7 @@ const SYNC_TOLERANCE = 100;
 
 export function GazePointView({ controls, context }: PluginViewProps) {
     //@ts-ignore
-    const { t } = useTranslation("interaction-lab-gazepoint-playback");
+    const { t } = useTranslation("interaction-lab-gazepoint_playback");
     const [data, setData] = useState<GazePoint[]>([]);
     const [timeMs, setTimeMs] = useState(0);
     const [isPlaying, setIsPlaying] = useState(false);

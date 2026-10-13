@@ -12,7 +12,7 @@ function GazePointView({
 }) {
   const {
     t
-  } = useTranslation("interaction-lab-gazepoint-playback");
+  } = useTranslation("interaction-lab-gazepoint_playback");
   const [data, setData] = useState([]);
   const [timeMs, setTimeMs] = useState(0);
   const [isPlaying, setIsPlaying] = useState(false);
@@ -233,7 +233,7 @@ const jsx$1 = jsxRuntimeExports.jsx;
 function GazePointPreview() {
   const {
     t
-  } = useTranslation("interaction-lab-gazepoint-playback");
+  } = useTranslation("interaction-lab-gazepoint_playback");
   return /* @__PURE__ */ jsx$1("div", {
     style: {
       padding: "16px",
